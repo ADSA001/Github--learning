@@ -8,3 +8,5 @@ I'm learning GitHub to manage software and AI projects.
 - Create repositories
 - Understand branches and pull requests
 - Publish my AI projects
+
+- Feature update
